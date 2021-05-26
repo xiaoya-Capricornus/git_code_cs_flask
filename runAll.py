@@ -13,7 +13,7 @@ import Common.Log
 LOG = Common.Log.logger
 SEND_EMAIL = SendEmail(
     username='xyyy1227@163.com',
-    passwd='QHGGKAJWWULYTPPO',
+    passwd='LOKYDYYSTTZVCKMU',
     recv=['692707223@qq.com', '1830606425@qq.com'],
     title='xy163EmailTest',
     content='测试发送邮件',
