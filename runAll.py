@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os
 import Common.HTMLTestRunner as HTMLTestRunner
 import getpathInfo
