@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # import os
 # import win32com.client as win32
 # import datetime

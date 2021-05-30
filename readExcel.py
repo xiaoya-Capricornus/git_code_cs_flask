@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import getpathInfo  # 自己定义的内部类，该类返回项目的绝对路径
 # 调用读Excel的第三方库xlrd

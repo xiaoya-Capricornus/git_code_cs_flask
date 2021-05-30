@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import configparser
 import getpathInfo #引入自己写好的获取绝对路径的方法
